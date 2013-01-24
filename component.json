@@ -1,0 +1,8 @@
+{
+  "name": "bootria",
+  "version": "1.0.0",
+  "main": ["./js/bootria.js"],
+  "dependencies": {
+    "twitter/bootstrap": "master-dev"
+  }
+}

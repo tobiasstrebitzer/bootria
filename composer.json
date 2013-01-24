@@ -1,0 +1,10 @@
+{
+    "name": "sabotizer/bootria"
+  , "description": "Build rich internet applications with twitter bootstrap"
+  , "keywords": ["ria", "bootstrap"]
+  , "homepage": "http://www.bootria.com/"
+  , "author": "Tobias Strebitzer"
+  , "license": "Apache-2.0"
+  , "target-dir": "sabotizer/bootria"
+
+}
