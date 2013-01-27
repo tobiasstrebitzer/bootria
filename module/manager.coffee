@@ -1,3 +1,0 @@
-  class ModulesManager
-    modules: {}
-
