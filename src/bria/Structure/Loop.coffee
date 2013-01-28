@@ -34,7 +34,7 @@ class bria.Structure.Loop extends bria.PackageView
         # Compose loop elements
         for i in [options.skip...(options.count + options.skip)]
           options.parentView.options.model = options.collection.models[i]
-          options.compose(options.parentView)
+          options.compose.apply(options.parentView)
           
         options.parentView.options.el.fadeTo(500, 1)
 
